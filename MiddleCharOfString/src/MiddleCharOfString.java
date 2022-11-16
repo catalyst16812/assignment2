@@ -11,7 +11,7 @@ public class MiddleCharOfString {
 		}
 		return String.valueOf(index);		
 	}
-	
+	//
 	
 	
 	
